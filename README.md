@@ -8,7 +8,6 @@
 </div>
 
 ###
-<img align="right" height="150" src="/resources/jett.jpg"  />
 
 
 <div align="left">
