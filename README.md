@@ -34,9 +34,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/kimduyminh/kimduyminh/output/snake.svg" alt="Snake animation" />
 
