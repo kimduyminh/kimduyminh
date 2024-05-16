@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/85068417?u=69822c5675b8d4de1cb4166dde705a24504e06b3&v=4"  />
-
 ###
 
 <div align="left">
