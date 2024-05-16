@@ -26,13 +26,13 @@
 <img src="https://raw.githubusercontent.com/kimduyminh/kimduyminh/output/snake.svg" alt="Snake animation" />
 <h2 align="left">Contact me via :</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/kimduyminh/" target="_blank">
+  <a href="<https://www.linkedin.com/in/kimduyminh/>" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/876461229789569034" target="_blank">
+  <a href="<discordapp.com/users/876461229789569034>" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="t.me/creammjnk" target="_blank">
+  <a href="<t.me/creammjnk>" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
