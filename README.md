@@ -9,7 +9,7 @@
 
 ###
 <img align="right" height="150" src="/resources/jett.jpg"  />
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
