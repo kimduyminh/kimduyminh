@@ -28,7 +28,7 @@
 
 <h2 align="left">Currently I'm interested in web3 and Dapp development besides Cloud Security ☁️ <h2>
 
-###
+
 
 
 <img src="https://raw.githubusercontent.com/kimduyminh/kimduyminh/output/snake.svg" alt="Snake animation" />
