@@ -26,10 +26,13 @@
 </div>
 
 ###
+<h2 align="left"> Currently I'm interested in web3 and Dapp development besides Cloud Security ☁️ <h2>
+
+###
 
 
 <img src="https://raw.githubusercontent.com/kimduyminh/kimduyminh/output/snake.svg" alt="Snake animation" />
-<h2 align="left">Contact me via :</h2>
+<h2 align="left">For enquiries, please contact me via :</h2>
 <div align="left">
   <a href="<https://www.linkedin.com/in/kimduyminh/>" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
