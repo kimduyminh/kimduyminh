@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Current main languages 😃</h2>
+<h2 align="left">Main languages 😃</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -25,8 +25,8 @@
 </div>
 </div>
 
-###
-<h2 align="left"> Currently I'm interested in web3 and Dapp development besides Cloud Security ☁️ <h2>
+
+<h2 align="left">Currently I'm interested in web3 and Dapp development besides Cloud Security ☁️ <h2>
 
 ###
 
