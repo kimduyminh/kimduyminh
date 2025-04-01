@@ -1,15 +1,9 @@
-<h2 align="left">Hi 👋! My name is Kim Duy Minh and I'm a student from Hanoi University of Science and Technology 😎</h2>
+<h2 align="left">Hi 👋! My name is Kim Duy Minh 😎</h2>
+<h3 align="left">Full-time student at <a href="https://soict.hust.edu.vn/en/">SOICT</a> and Part-time Pentester at <a href="https://cyradar.com/">CyRadar</a> 😉</h3>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimduyminh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimduyminh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<h2 align="left">Main languages 😃</h2>
+<h2 align="left">Tech Stack 💻</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -22,12 +16,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="30" alt="polygon logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+<h2 align="left">About MEEE</h2>
+<h3 align="left">🔬Currently I'm interested in both Red Teaming and Blue Teaming besides Cloud Security ☁️ </h3>
+<h3 align="left">🚩Passionate about Reverse engineer and Web Application pentesting as well as SOC Operations</h3>
+
+
+<h2 align="left">Github stats ⭐</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimduyminh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimduyminh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-<h2 align="left">Currently I'm interested in web3 and Dapp development besides Cloud Security ☁️ <h2>
-
 
 
 
