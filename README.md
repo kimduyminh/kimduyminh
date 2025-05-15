@@ -23,7 +23,7 @@
 </div>
 <h2 align="left">About MEEE</h2>
 <h3 align="left">🔬Currently I'm interested in both Red Teaming and Blue Teaming besides Cloud Security ☁️ </h3>
-<h3 align="left">🚩Passionate about Reverse engineer and Web Application pentesting as well as SOC Operations</h3>
+<h3 align="left">🚩Passionate about Reverse engineering and Web Application pentesting as well as SOC Operations</h3>
 
 
 <h2 align="left">Github stats ⭐</h2>
