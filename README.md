@@ -53,3 +53,6 @@
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=kimduyminh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h2>Fun fact: I play CTF</h2>
+<h3>Writeups: <a href="https://gaudy-wisteria-3b1.notion.site/Creammjnk-CTF-Writeups-1f8c7083982b8070b98adfabf2fb9d8b?pvs=4">Notion</a></h3>
