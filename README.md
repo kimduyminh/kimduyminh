@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Kim Duy Minh 😎</h2>
-<h3 align="left">Full-time student at <a href="https://soict.hust.edu.vn/en/">SOICT</a> and Part-time Pentester at <a href="https://cyradar.com/">CyRadar</a> 😉</h3>
+<h3 align="left">Full-time student at <a href="https://soict.hust.edu.vn/en/">SOICT</a> and Part-time Intern at <a href="https://cyradar.com/">CyRadar</a> 😉</h3>
 
 
 
