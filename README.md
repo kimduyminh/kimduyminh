@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Kim Duy Minh 😎</h2>
-<h3 align="left">Full-time student at <a href="https://soict.hust.edu.vn/en/">SOICT</a> and Part-time Intern at <a href="https://cyradar.com/">CyRadar</a> 😉</h3>
+<h3 align="left">Full-time student at <a href="https://soict.hust.edu.vn/en/">SOICT</a> and Part-time Security Engineer at <a href="https://cyradar.com/">CyRadar</a> 😉</h3>
 
 
 
@@ -22,8 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 <h2 align="left">About MEEE</h2>
-<h3 align="left">🔬Currently I'm interested in both Red Teaming and Blue Teaming besides Cloud Security ☁️ </h3>
-<h3 align="left">🚩Passionate about Reverse engineering and Web Application pentesting as well as SOC Operations</h3>
+<h3 align="left">🔬Currently I'm interested in Blue Team Operation🛡️ </h3>
+<h3 align="left">🚩Passionate about Malware as well as SOC Operations</h3>
 
 
 <h2 align="left">Github stats ⭐</h2>
