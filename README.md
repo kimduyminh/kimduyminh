@@ -22,8 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 <h2 align="left">About MEEE</h2>
-<h3 align="left">🔬Currently I'm interested in Blue Team Operation🛡️ </h3>
-<h3 align="left">🚩Passionate about Malware as well as SOC Operations</h3>
+<h3 align="left">🔬 Currently working on Windows Kernel for Endpoint Detection & Response (EDR) 🛡️</h3>
+<h3 align="left">🚩 Focused on Low-level System Internals, Threat Hunting, and Malware Analysis</h3>
 
 
 <h2 align="left">Github stats ⭐</h2>
