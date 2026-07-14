@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Kim Duy Minh 😎</h2>
-<h3 align="left">Full-time student at <a href="https://soict.hust.edu.vn/en/">SOICT</a> and Part-time Endpoint Security Engineer at <a href="https://cmccybersecurity.com/">CMC Cyber Security</a> 😉</h3>
+<h3 align="left">Full-time student at <a href="https://soict.hust.edu.vn/en/">SOICT</a> and Part-time Malware Researcher at <a href="https://cmccybersecurity.com/">CMC Cyber Security</a> 😉</h3>
 
 
 
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 <h2 align="left">About MEEE</h2>
-<h3 align="left">🔬 Currently working on Windows Kernel for Endpoint Detection & Response (EDR) 🛡️</h3>
+<h3 align="left">🔬 Currently working on Windows Malware and Kernel Development for Endpoint Detection & Response (EDR) 🛡️</h3>
 <h3 align="left">🚩 Focused on Low-level System Internals, Threat Hunting, and Malware Analysis</h3>
 
 
