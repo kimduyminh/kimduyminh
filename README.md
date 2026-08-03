@@ -19,7 +19,7 @@
 </div>
 <h2 align="left">About MEEE</h2>
 <h3 align="left">🔬 Currently working on Malware Research and Kernel Development for Endpoint Detection & Response (EDR) 🛡️</h3>
-<h3 align="left">🚩 Focused on Low-level System Internals, Threat Hunting, and Malware Analysis</h3>
+<h3 align="left">🚩 Focused on Low-level System Internals, DFIR and Malware Analysis</h3>
 
 
 <h2 align="left">Github stats ⭐</h2>
