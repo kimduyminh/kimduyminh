@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 <h2 align="left">About MEEE</h2>
-<h3 align="left">🔬 Currently working on Malware Research and Kernel Development for Endpoint Detection & Response (EDR) 🛡️</h3>
+<h3 align="left">🔬 Currently working on Vulnerability Research and Kernel Development for Endpoint Detection & Response (EDR) 🛡️</h3>
 <h3 align="left">🚩 Focused on Security System Programming, Low-level System Internals, DFIR and Malware Analysis</h3>
 
 
