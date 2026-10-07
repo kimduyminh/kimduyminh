@@ -51,5 +51,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=kimduyminh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2>Fun fact: I play CTF 🤓💻</h2>
-<h3>Writeups: <a href="https://gist.github.com/kimduyminh">Gist</a></h3>
